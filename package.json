@@ -1,12 +1,13 @@
 {
   "name": "data-field-url",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "sethvincent",
   "bugs": {
     "url": "https://github.com/editdata/data-field-url/issues"
   },
   "dependencies": {
     "addhttp": "^1.0.0",
+    "component-emitter": "^1.2.0",
     "data-field-classname": "^1.0.0",
     "xtend": "^4.0.0"
   },
